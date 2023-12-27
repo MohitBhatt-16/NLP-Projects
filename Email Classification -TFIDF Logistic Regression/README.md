@@ -1,0 +1,1 @@
+This model classify mails using TFIDF Vectorizer and Logistic Regression
