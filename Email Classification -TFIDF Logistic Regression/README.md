@@ -1,1 +1,1 @@
-This model classify mails using TFIDF Vectorizer and Logistic Regression
+This model classify mails using TFIDF Vectorizer and Logistic Regression and helps in distinguishing  between spam and real mails 
